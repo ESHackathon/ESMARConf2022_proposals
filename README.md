@@ -1,4 +1,6 @@
-# ESMARConf2022 proposals for sessions, workshops and hackathon projects
+<img src="img/ESMARConf2022logo.png" width="20%" align="right" alt="ESMARCONf2022 logo">  
+
+# ESMARConf2022 proposals for sessions, workshops and hackathon projects  
 
 Please use this repository to list your proposals for sessions, workshops and hackathon projects. By making this information public before you submit, you can share ideas, network with others and collaborate on joint ideas.
 
@@ -9,3 +11,5 @@ Please use this repository to list your proposals for sessions, workshops and ha
 Please add your suggestion as an 'issue' (see <a href="https://github.com/ESHackathon/ESMARConf2022_proposals/issues">Issues</a> in the menu above). Add your title, a short description, and any other information you feel would be useful to facilitate sharing, networking and collaboration.
 
 Please remember to submit your final proposals using <a href="https://forms.gle/p7gVbvx4DKsnHS4e8" target="_blank">this submission form</a> before September 1st 2021.
+
+Visit the <a href="https://www.eshackathon.org/events/2022-01-ESMARConf2022.html" target="_blank">ESMARConf2022 web page</a> at the <a href="https://www.eshackathon.org/" target="_blank">Evidence Synthesis Hackathon</a>.
